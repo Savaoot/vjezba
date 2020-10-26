@@ -1,1 +1,2 @@
 # vjezba
+prvi pull
